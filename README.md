@@ -1,1 +1,2 @@
-# https-studio.firebase.google.com-studio-2327547828
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git branch -M main
